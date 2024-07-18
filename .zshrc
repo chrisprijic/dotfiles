@@ -12,3 +12,4 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
 [[ -f ~/.zsh/env.zsh ]] && source ~/.zsh/env.zsh
 [[ -f ~/.zsh/functions.zsh ]] && source ~/.zsh/functions.zsh
+[[ -f ~/.zsh/comp.zsh ]] && source ~/.zsh/comp.zsh
